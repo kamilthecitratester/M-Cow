@@ -8,3 +8,14 @@ a random django app
 tiny FAQ from me
 # can i use it
 YES YOU CAN if YOU MANAGE TO.........
+# Why is there blank 404, 403, index, debug Templates?
+i need time to update the mcow project and i have a life
+# 
+# 
+# 
+# 
+# 
+GO BACK TO SLEEP - Braden 2023
+
+
+
